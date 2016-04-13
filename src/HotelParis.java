@@ -30,6 +30,7 @@ public class HotelParis {
         createMainGUI(); //create main GUI for guest and manager
 
     }//main
+    //created by Mandeep
     public static void createMainGUI() {
         //clear pane if not null
         if (pane != null) {
